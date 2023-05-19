@@ -20,3 +20,12 @@ SwiftChat is a basic chat app for iOS devices developed using Swift. It allows u
 - Swift Package Manager
 - iOS Table Views
 
+###Contributing
+
+Contributions to SwiftChat are welcome! If you find a bug or want to add new features, please open an issue or submit a pull request.
+
+####
+Contact
+
+For any inquiries or questions, you can reach out to me at shawryathakur@gmail.com
+
